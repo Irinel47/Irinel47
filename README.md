@@ -1,14 +1,12 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right" alt="coding gif"/>
+<img src="https://media0.giphy.com/media/unxCGmTuBvwo2djRLA/200.gif" width="360" align="right" alt="coding penguin gif"/>
 
 ## Hi there, I'm Irinel 👋
 
-Analytics Engineer / BI Developer / Data Analyst — call it what you want, I just like making data make sense 📊
+Analytics Engineer / BI Developer / Data Analyst - call it what you want, I just like making data make sense 📊
 
 I enjoy working across the full analytics stack: from wrangling data in Fabric pipelines and writing T-SQL or PySpark to crafting visuals in Power BI and pushing the limits of what BI tools can actually do.
 
 Outside of work I build random things for the fun of it 🤓 web scrapers, economic and social data viz projects, automation tools, sports analytics and whatever data-related idea manages to survive my morning coffee. Some of it ends up here.
-
-Oh, and I've recently started learning the word *"hej"* for reasons that are entirely unrelated to work. 🇸🇪🇳🇴🇩🇰
 
 ---
 
@@ -24,13 +22,13 @@ Oh, and I've recently started learning the word *"hej"* for reasons that are ent
 ![Fabric Pipelines](https://img.shields.io/badge/Fabric_Pipelines-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Lakehouses](https://img.shields.io/badge/Lakehouses-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Warehouses](https://img.shields.io/badge/Warehouses-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-6A0DAD?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **📊 BI & Visualisation**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-6A0DAD?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **🧰 Environment & Dev Tools**
@@ -64,22 +62,20 @@ me = spark.createDataFrame([{
     "role":       "Analytics Engineer / BI Developer",
     "stack":      "MS Fabric · Power BI · PySpark · SQL",
     "building":   "pipelines by day, weird charts by night",
-    "fun_fact":   "currently learning 'hej' for mysterious reasons",
-    "motto":      "if the data is clean, anything is possible"
+    "fun_fact":   "currently learning 'hej' for mysterious reasons 🇸🇪🇳🇴🇩🇰",
+    "motto":      "clean data, good vibes, questionable chart choices"
 }])
 
 me.show(truncate=False)
 ```
 
 ```
-+----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+--------------------------------------------+
-|name            |role                              |stack                                 |building                                  |fun_fact                                          |motto                                       |
-+----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+--------------------------------------------+
-|Irinel Cristea  |Analytics Engineer / BI Developer |MS Fabric · Power BI · PySpark · SQL  |pipelines by day, weird charts by night   |currently learning 'hej' for mysterious reasons   |if the data is clean, anything is possible  |
-+----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+--------------------------------------------+
++----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+|name            |role                              |stack                                 |building                                  |fun_fact                                          |motto                                               |
++----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+|Irinel Cristea  |Analytics Engineer / BI Developer |MS Fabric · Power BI · PySpark · SQL  |pipelines by day, weird charts by night   |currently learning 'hej' for mysterious reasons 🇸🇪🇳🇴🇩🇰 |clean data, good vibes, questionable chart choices  |
++----------------+----------------------------------+--------------------------------------+------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 ```
-
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="220" align="right" alt="data gif"/>
 
 ---
 
