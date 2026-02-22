@@ -1,12 +1,14 @@
-<img src="https://media0.giphy.com/media/unxCGmTuBvwo2djRLA/200.gif" width="360" align="right" alt="coding penguin gif"/>
-
 ## Hi there, I'm Irinel 👋
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="340" align="right" alt="coding penguin gif"/>
 
 Analytics Engineer / BI Developer / Data Analyst - call it what you want, I just like making data make sense 📊
 
 I enjoy working across the full analytics stack: from wrangling data in Fabric pipelines and writing T-SQL or PySpark to crafting visuals in Power BI and pushing the limits of what BI tools can actually do.
 
 Outside of work I build random things for the fun of it 🤓 web scrapers, economic and social data viz projects, automation tools, sports analytics and whatever data-related idea manages to survive my morning coffee. Some of it ends up here.
+
+<br clear="right"/>
 
 ---
 
